@@ -11,7 +11,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=compact&locale=pt-br&hide_progress=true" alt="Top Langs" />
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=donut&locale=pt-br)](https://github.com/marcio24/github-readme-stats)
     </td>
     <td style="border: none;">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
