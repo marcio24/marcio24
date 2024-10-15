@@ -9,8 +9,7 @@ Entusiasta de tecnologia, transformando ideias em código e explorando novas fro
 
 <div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=compact" alt="Top Langs" />
-</div> 
-<div style="display: inline-block;">
+</div><div style="display: inline-block;">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img style="width: 112px" src="https://blog.desdelinux.net/wp-content/uploads/2024/01/logo-firebird-1024x255.jpeg.webp"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
