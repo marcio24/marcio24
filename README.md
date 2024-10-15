@@ -3,7 +3,7 @@
 <br>
 
 
-![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&hide=contribs,prs&theme=transparent&locale=pt-br&include_all_commits=true&count_private=true)
+![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&hide=contribs,prs&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true)
 
 
 ## Tecnologias que utilizo no dia-a-dia
