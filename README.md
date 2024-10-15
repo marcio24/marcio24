@@ -8,12 +8,12 @@
 
 ## Tecnologias que utilizo no dia-a-dia
 
-<table style="border: none; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="border: none;">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=donut&locale=pt-br)](https://github.com/marcio24/github-readme-stats)
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=compact&locale=pt-br" alt="Top Langs" />
     </td>
-    <td style="border: none;">
+    <td >
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img style="width: 112px" src="https://blog.desdelinux.net/wp-content/uploads/2024/01/logo-firebird-1024x255.jpeg.webp"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
