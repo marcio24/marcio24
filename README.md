@@ -3,7 +3,8 @@ Entusiasta de tecnologia, transformando ideias em código e explorando novas fro
 <br>
 
 
-![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&theme=transparent)
+![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&hide=contribs,prs&theme=transparent&include_all_commits=true&count_private=true)
+
 
 ## Tecnologias que utilizo no dia-a-dia
 
