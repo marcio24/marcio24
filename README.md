@@ -29,4 +29,4 @@ Entusiasta de tecnologia, transformando ideias em código e explorando novas fro
 ### **Me acompanhe nas minhas redes!**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_marcinn/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-_"Sem Saber que era impossível, ele fez!"_
+
