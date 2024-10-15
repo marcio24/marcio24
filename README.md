@@ -3,7 +3,7 @@
 <br>
 
 
-![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&hide=contribs,prs&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true)
+![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&hide=contribs,prs&theme=radical&locale=pt-br&include_all_commits=true&count_private=true)
 
 
 ## Tecnologias que utilizo no dia-a-dia
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=compact&locale=pt-br" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio24&layout=compact&locale=pt-br&theme=radical" alt="Top Langs" />
     </td>
     <td >
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
