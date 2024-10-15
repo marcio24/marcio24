@@ -1,12 +1,9 @@
 # **Olá, sou o Márcio Filho ✌️**
 Entusiasta de tecnologia, transformando ideias em código e explorando novas fronteiras no desenvolvimento de software.
 <br>
-<br>
+
 
 ![Márcio Filho - GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio24&show_icons=true&theme=transparent)
-
-
-<br>
 
 ## Tecnologias que utilizo no dia-a-dia
 
